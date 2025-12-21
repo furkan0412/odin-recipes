@@ -65,6 +65,10 @@ li {
   text-decoration: none;
 }
 
+.return-main-page {
+  font-size: 1.5rem;
+}
+
 .author-info {
   text-align: center;
   background-color: #a6c0c9;
