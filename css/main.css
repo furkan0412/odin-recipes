@@ -29,6 +29,10 @@ img {
   margin: auto;
 }
 
+p {
+  font-size: 1.3rem;
+}
+
 .main-links {
   font-size: 1.5rem;
 }
