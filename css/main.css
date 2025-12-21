@@ -52,3 +52,7 @@ li {
 .main-links a {
   text-decoration: none;
 }
+
+.author-info {
+  text-align: center;
+}
