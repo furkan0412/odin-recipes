@@ -45,6 +45,10 @@ li {
   font-size: 1.5rem;
 }
 
+.main-links li {
+  list-style-type: none;
+}
+
 .main-links a {
   text-decoration: none;
 }
